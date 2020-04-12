@@ -11,6 +11,8 @@ The Pima (/ˈpiːmə/) (or Akimel O'odham, also spelled Akimel Oʼotham, "River 
 ## Dataset
 The dataset can be found on the Kaggle website. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and can be used to predict whether a patient has diabetes based on certain diagnostic factors.
 
+#### Dataset columns
+
 * Pregnancies
 * Glucose
 * BloodPressure
@@ -20,6 +22,8 @@ The dataset can be found on the Kaggle website. This dataset is originally from 
 * DiabetesPedigreeFun
 * Age
 * Outcome
+#### Description
+This dataset by itself has a diabetic response for each person according to that person's test. In this project, I have re-marked the data by running the KMean algorithm
 
 #### Installation (recommended)
     pip3 install jupyter
