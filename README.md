@@ -36,4 +36,4 @@ This dataset by itself has a diabetic response for each person according to that
 #### Installation (recommended for machine learning KMean algorithm)    
     pip3 install sklearn
 #### License
-See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
+See full license on [this](https://opensource.org/licenses/MIT) ,Under MIT License 
