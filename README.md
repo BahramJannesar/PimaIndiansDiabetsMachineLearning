@@ -22,6 +22,7 @@ The dataset can be found on the Kaggle website. This dataset is originally from 
 * DiabetesPedigreeFun
 * Age
 * Outcome
+
 #### Description
 This dataset by itself has a diabetic response for each person according to that person's test. In this project, I have re-marked the data by running the KMean algorithm
 
