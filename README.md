@@ -4,10 +4,9 @@ Diabetes is a chronic condition in which the body develops a resistance to insul
 
 ## Who are Pima Indians
 
-![](https://github.com/BahramJannesar/pima-indians-diabets-kmean/blob/master/image/Pima.jpg)
-
 The Pima (/ˈpiːmə/) (or Akimel O'odham, also spelled Akimel Oʼotham, "River People", formerly known as Pima) are a group of Native Americans living in an area consisting of what is now central and southern Arizona. [Wikipedia](https://en.wikipedia.org/wiki/Pima_people) 
 
+![](https://github.com/BahramJannesar/pima-indians-diabets-kmean/blob/master/image/Pima.jpg)
 
 ## Dataset
 The dataset can be found on the Kaggle website. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and can be used to predict whether a patient has diabetes based on certain diagnostic factors.
