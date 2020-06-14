@@ -24,8 +24,16 @@ The dataset can be found on the Kaggle website. This dataset is originally from 
 * Age
 * Outcome
 
-#### Description
-This dataset by itself has a diabetic response for each person according to that person's test. In this project, I have re-marked the data by running the KMean algorithm
+### Clustering with KMeans Algorithm :
+according to the correlation digaram as you can see , the best parameters for drawing and show how is the algorithm worked , is , Age , BMI , Glucose . 
+
+![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Correlation.png)
+
+before clustering : 
+
+![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Age%20Vs%20BMI%20%2C%20Before.png)
+
+![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Age%20vs%20Glucose%20%2C%20Before.png)
 
 #### License
 See full license on [this](https://opensource.org/licenses/MIT) ,Under MIT License 
