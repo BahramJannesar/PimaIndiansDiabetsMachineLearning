@@ -29,11 +29,17 @@ according to the correlation digaram as you can see , the best parameters for dr
 
 ![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Correlation.png)
 
-before clustering : 
+**before clustering :** 
 
 ![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Age%20Vs%20BMI%20%2C%20Before.png)
 
 ![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Age%20vs%20Glucose%20%2C%20Before.png)
+
+**after clusterung :**
+
+![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Age%20vs%20BMI%20%2C%20After.png)
+
+![](https://github.com/BahramJannesar/PimaIndiansDiabetsMachineLearning/blob/master/image/Age%20vs%20Gluscose%20%2C%20After.png)
 
 #### License
 See full license on [this](https://opensource.org/licenses/MIT) ,Under MIT License 
